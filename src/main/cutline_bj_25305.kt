@@ -1,5 +1,3 @@
-package main.kotlin
-
 fun main() {
     val (N, k) = readLine()!!.split(" ").map { it.toInt() }
 

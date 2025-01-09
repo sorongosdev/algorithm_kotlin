@@ -1,5 +1,3 @@
-package src.main.kotlin
-
 fun main() {
     val coordNum = readln().toInt()
     val coordList = mutableListOf<Pair<Int, Int>>()

@@ -1,5 +1,3 @@
-package main.kotlin
-
 data class Student(
     val name: String,
     val kor: Int,

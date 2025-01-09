@@ -1,5 +1,3 @@
-package main.kotlin
-
 fun insertionSort(arr: IntArray, n: Int, k: Int) {
     var count = 0  // 저장 횟수를 카운트
     var result = -1  // K번째 저장되는 수를 저장

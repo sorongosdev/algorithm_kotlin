@@ -1,5 +1,3 @@
-package src.main.kotlin
-
 fun main() {
     val peopleNum = readln().toInt()
     val peopleList = mutableListOf<Pair<Int, String>>()

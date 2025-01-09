@@ -1,5 +1,3 @@
-package main.kotlin
-
 fun main() {
     val N = readLine()!!.toInt()
     val levelList = mutableListOf<Int>()
